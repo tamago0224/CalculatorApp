@@ -13,6 +13,7 @@
 		5F8041A2258BA1C10016B902 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F8041A1258BA1C10016B902 /* Preview Assets.xcassets */; };
 		5F8041AD258BA1C10016B902 /* CalculatorWithSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F8041AC258BA1C10016B902 /* CalculatorWithSwiftUITests.swift */; };
 		5F8041B8258BA1C10016B902 /* CalculatorWithSwiftUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F8041B7258BA1C10016B902 /* CalculatorWithSwiftUIUITests.swift */; };
+		5F8041C9258F860C0016B902 /* Calculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F8041C8258F860C0016B902 /* Calculator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		5F8041B3258BA1C10016B902 /* CalculatorWithSwiftUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalculatorWithSwiftUIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F8041B7258BA1C10016B902 /* CalculatorWithSwiftUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorWithSwiftUIUITests.swift; sourceTree = "<group>"; };
 		5F8041B9258BA1C10016B902 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5F8041C8258F860C0016B902 /* Calculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Calculator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				5F80419E258BA1C10016B902 /* Assets.xcassets */,
 				5F8041A3258BA1C10016B902 /* Info.plist */,
 				5F8041A0258BA1C10016B902 /* Preview Content */,
+				5F8041C8258F860C0016B902 /* Calculator.swift */,
 			);
 			path = CalculatorWithSwiftUI;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				5F80419D258BA1C00016B902 /* ContentView.swift in Sources */,
 				5F80419B258BA1C00016B902 /* CalculatorWithSwiftUIApp.swift in Sources */,
+				5F8041C9258F860C0016B902 /* Calculator.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
